@@ -10,29 +10,30 @@ This project involves:
 3. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-• SQL Development
-• Data Architect
-• Data Engineering
-• ETL Pipeline Developer
-• Data Modeling
-• Data Analytics
+1. SQL Development
+2. Data Architect
+3. Data Engineering
+4. ETL Pipeline Developer
+5. Data Modeling
+6. Data Analytics
 
 Building the Data Warehouse (Data Engineering)
-Objective
+Objective:
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
 Specifications
-• Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-• Data Quality: Cleanse and resolve data quality issues prior to analysis.
-• Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
-• Scope: Focus on the latest dataset only; historization of data is not required.
-• Documentation: Provide clear documentation of the data lodel to support both business stakeholders and analytics teams.
+1. Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+2. Data Quality: Cleanse and resolve data quality issues prior to analysis.
+3. Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+4. Scope: Focus on the latest dataset only; historization of data is not required.
+5. Documentation: Provide clear documentation of the data lodel to support both business stakeholders and analytics teams.
 
 BI: Analytics & Reporting (Data Analytics)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
-• Customer Behavior
-• Product Performance
-• Sales Trends
+1. Customer Behavior
+2. Product Performance
+3. Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 This project is an end-to-end data warehousing implementation built as part of my deep-dive into data architecture and ETL pipelines. 
